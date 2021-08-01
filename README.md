@@ -1,7 +1,23 @@
-**********************READ ME**********************
+# Desafio Gama Pullrequest
 
-Estou amando este curso. O assunto é muito novo para mim, más devo admitir que já aprendi bastante coisa até aqui.
+## Faça o FORK deste projeto
 
-Vamos, que tem mais pra frente!
+### Faça o Clone do projeto em sua conta
 
-================================================================================================= 
+### Cria uma BRANCH iniciada em "gama/"
+
+#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
+
+##### Faça o commit da sua altetação
+
+#### Execute o comando
+
+`git push --set-upstream <remote> <branch>`
+
+## Abra um PullRequest com suas alterações
+
+O que estou achando do curso ?
+
+Muito interessante!
+
+Achei muito interessante este curso, a pesar de ser algo novo, consegui aplicar a maioria das istruções. Obrigado! <Prospery509>
